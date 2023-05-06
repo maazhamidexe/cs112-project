@@ -6,7 +6,7 @@
 #include "filemanip.h"
 
 using namespace std;
-
+//hey mannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 filemanip f;
 ifstream fin;
 
