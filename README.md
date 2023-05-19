@@ -1,26 +1,7 @@
 # cs112-project
 #hierarchy
-					+------------+
-					|  Expense   |
-					+------------+
-					       |
-				    +--------------------------+
-				    |                          |
-				+----------+            +---------------+
-				|  Bill    |            |  Entertainment|
-				+----------+            +---------------+
-					       |
-					+---------------------+
-					|                     |
-				   +--------------+     +----------------+
-				   |  Medical     |     |    Education   |
-				   +--------------+     +----------------+
-					       |
-					+------------------+
-					|                  |
-				   +---------------+   +-------------------+
-				   |  Groceries    |   |     Emergency     |
-				   +---------------+   +-------------------+
+![Screenshot from 2023-05-19 15-09-50](https://github.com/maazhamidexe/cs112-project/assets/131219200/68843dbe-e464-42ac-8b80-30f73e56eae8)
+
                             
 In this hierarchy, the Expense class serves as the base class, 
 and all the derived classes (Bill, Entertainment, Medical, Education,
