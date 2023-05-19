@@ -1,8 +1,7 @@
 # cs112-project
 #hierarchy
-              super class
          +-----------------+
-         |     Expense     | 
+         |     Expense     |
          +-----------------+
                 |
         +-------------------+
@@ -28,6 +27,7 @@
         +-------------------+
         |     Emergency     |
         +-------------------+
+
 In this hierarchy, the Expense class serves as the base class, 
 and all the derived classes (Bill, Entertainment, Medical, Education,
 Groceries, Emergency) inherit from it. Each derived class represents 
